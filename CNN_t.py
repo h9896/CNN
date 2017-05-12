@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Apr 12 11:46:13 2017
-
-@author: Edison Song
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Wed Mar 29 01:38:19 2017
 
 @author: Edison Song
